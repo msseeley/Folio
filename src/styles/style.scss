@@ -1,0 +1,147 @@
+@import "variables";
+@import "utilities";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  // line-height: 1.2rem;
+  font-family: "Montserrat", sans-serif;
+  font-style: 400;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+ul {
+  list-style: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-weight: normal;
+}
+
+//font-styles
+.caps {
+  text-transform: uppercase;
+}
+.italic {
+  font-style: italic;
+}
+
+//font-weights
+.w-extra-bold {
+  font-weight: 800;
+}
+.w-bold {
+  font-weight: 700;
+}
+.w-semi-bold {
+  font-weight: 600;
+}
+.w-med-bold {
+  font-weight: 500;
+}
+.w-reg {
+  font-weight: 400;
+}
+
+//font-sizes
+.f-lg {
+  font-size: 3rem;
+}
+.f-med-lg {
+  font-size: 2rem;
+}
+.f-med {
+  font-size: 1rem;
+}
+.f-med-sml {
+  font-size: 0.75rem;
+}
+.f-sml {
+  font-size: 0.5rem;
+}
+
+//margin
+.m-lg {
+  margin: 2rem;
+}
+.m-med {
+  margin: 1rem;
+}
+.m-sml {
+  margin: 0.5rem;
+}
+
+.m-top-lg {
+  margin: 2rem 0 0 0;
+}
+.m-top-med {
+  margin: 1rem 0 0 0;
+}
+.m-top-sml {
+  margin: 0.5rem 0 0 0;
+}
+
+.m-hor-lg {
+  margin: 0rem 2rem;
+}
+.m-hor-med {
+  margin: 0rem 1rem;
+}
+.m-hor-sml {
+  margin: 0rem 0.5rem;
+}
+
+//padding
+.p-lg {
+  padding: 2rem;
+}
+.p-med {
+  padding: 1rem;
+}
+.p-sml {
+  padding: 0.5rem;
+}
+
+.p-left {
+  padding-left: 1rem;
+}
+
+//display
+.grid {
+  display: grid;
+  grid-template-columns: 0.25fr 2fr;
+  grid-template-areas:
+    "col-1 col-2"
+    "col-1 col-2";
+}
+.col-1 {
+  grid-area: "col-1";
+}
+.col-2 {
+  grid-area: "col-2";
+}
+
+.flex {
+  display: flex;
+}
+.space-btwn {
+  justify-content: space-between;
+}
+.ctr-vert {
+  align-items: center;
+}
+.align-rt {
+  text-align: right;
+}
