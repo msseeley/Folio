@@ -116,18 +116,21 @@ const Resume = () => (
         </div>
       </div>
     </section>
-    <section id="education">
-      <div className="container">
-        <h3 className="caps">Education</h3>
-        <h4>Grace Hopper Program at Fullstack Academy 2018</h4>
-        <h4>
-          MA NYU Gallatin ABD, Intersections of Race, Class, Gender, & Family in
-          America
-        </h4>
-        <h4>
-          BA Hampshire College 2012 Interdisciplinary Arts, Literature, &
-          Creative Writing
-        </h4>
+    <section id="education" className="m-lg">
+      <h3 className="caps">Education</h3>
+      <div className="grid m-hor-lg">
+        <div className="col-1"></div>
+        <div className="col-2">
+          <h4>Grace Hopper Program at Fullstack Academy 2018</h4>
+          <h4>
+            MA NYU Gallatin ABD, Intersections of Race, Class, Gender, & Family
+            in America
+          </h4>
+          <h4>
+            BA Hampshire College 2012 Interdisciplinary Arts, Literature, &
+            Creative Writing
+          </h4>
+        </div>
       </div>
     </section>
   </div>
