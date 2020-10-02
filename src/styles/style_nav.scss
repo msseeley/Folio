@@ -2,15 +2,15 @@
   width: 500px;
 }
 
-#Layer_2 {
-  animation: rotate-rev 30s linear infinite;
-  transform-origin: 50% 51.7%;
-}
+// #Layer_2 {
+//   animation: rotate 30s linear infinite;
+//   transform-origin: 50% 51.7%;
+// }
 
-#Layer_3 {
-  animation: rotate 50s linear infinite;
-  transform-origin: 50% 50%;
-}
+// #Layer_3 {
+//   animation: rotate-rev 50s linear infinite;
+//   transform-origin: 50% 50%;
+// }
 
 @keyframes rotate {
   from {
