@@ -1,16 +1,15 @@
 import React, { useEffect, useRef } from "react"
-import { Link } from "gatsby"
-import CircleType from "circletype"
-import "../styles/style.scss"
+// import { Link } from "gatsby"
+// import CircleType from "circletype"
+import "../styles/style_nav.scss"
+import nav from "../styles/images/animated_nav.svg"
+
+//left off: https://css-tricks.com/set-text-on-a-circle/
 
 const CircularNav = () => (
-  <nav className="caps w-reg">
-    <Link to="#about">about</Link>
-    <Link to="#articles">articles</Link>
-    <Link to="#projects">projects</Link>
-    <Link to="/resume">resume</Link>
-    <Link to="#contact">contact</Link>
-  </nav>
+  <div className="container">
+    <img src={nav} />
+  </div>
 )
 
 export default CircularNav

@@ -1,4 +1,5 @@
 import React from "react"
+import "../styles/style_resume.scss"
 // import { Link } from "gatsby"
 
 const Resume = () => (
