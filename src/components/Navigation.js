@@ -6,7 +6,7 @@ import "../styles/style_nav.scss"
 const Navigation = () => (
   <div>
     <CircleNav />
-    <NavLinkOverlay />
+    {/* <NavLinkOverlay /> */}
   </div>
 )
 

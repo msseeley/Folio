@@ -1,18 +1,19 @@
 import React from "react"
+import "../styles/style_nav.scss"
 
 const NavLinkOverlay = () => (
   <div id="overlay-descr">
-    <div id="about-descr">
-      <p>personal hobbies, interests, characterizations</p>
-    </div>
-    <div id="articles-descr">
-      <p>developer tails, tutorials, and impressions</p>
-    </div>
+    {/* <p id="about-descr" className="descr">
+      Hello! My name is Molly ...
+    </p> */}
+    <p id="articles-decr" className="descr">
+      developer tales, tutorials, and impressions ...
+    </p>
     <div id="projects-descr">
-      <p>a curated collection of my work</p>
+      <p>curated works ...</p>
     </div>
     <div id="contact-descr">
-      <p>social links</p>
+      <p>get in touch ...</p>
     </div>
     <div id="resume-descr">
       <p>my long-form resume</p>

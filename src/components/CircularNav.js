@@ -21,7 +21,7 @@ const CircularNav = () => (
         <path d="M250,151a99,99,0,1,1-99,99,99.11,99.11,0,0,1,99-99m0-1A100,100,0,1,0,350,250,100,100,0,0,0,250,150Z" />
       </g>
       <g id="Layer_2" data-name="Layer 2">
-        <a href="#contact" class="link">
+        <a href="#contact" className="link" id="contact-link">
           <text
             className="cls-3"
             transform="translate(192.12 138.81) rotate(-23.41)"
@@ -65,7 +65,7 @@ const CircularNav = () => (
             T
           </text>
         </a>
-        <a href="#resume" class="link">
+        <a href="#resume" className="link" id="resume-link">
           <text
             className="cls-3"
             transform="translate(192.03 389.39) rotate(19.16)"
@@ -105,7 +105,7 @@ const CircularNav = () => (
         </a>
       </g>
       <g id="Layer_3" data-name="Layer 3">
-        <a href="#about" class="link">
+        <a href="#about" className="link" id="about-link">
           <text
             className="cls-3"
             transform="translate(208.99 54) rotate(-9.17)"
@@ -137,7 +137,7 @@ const CircularNav = () => (
             T
           </text>
         </a>
-        <a href="#articles" class="link">
+        <a href="#articles" className="link" id="articles-link">
           <text
             className="cls-3"
             transform="matrix(0.62, -0.79, 0.79, 0.62, 422.12, 396.22)"
@@ -187,7 +187,7 @@ const CircularNav = () => (
             S
           </text>
         </a>
-        <a href="#projects" class="link">
+        <a href="#projects" className="link" id="projects-link">
           <text
             className="cls-3"
             transform="matrix(0.04, 1, -1, 0.04, 24.16, 251.29)"
