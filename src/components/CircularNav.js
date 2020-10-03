@@ -21,49 +21,51 @@ const CircularNav = () => (
         <path d="M250,151a99,99,0,1,1-99,99,99.11,99.11,0,0,1,99-99m0-1A100,100,0,1,0,350,250,100,100,0,0,0,250,150Z" />
       </g>
       <g id="Layer_2" data-name="Layer 2">
-        <text
-          className="cls-3"
-          transform="translate(192.12 138.81) rotate(-23.41)"
-        >
-          C
-        </text>
-        <text
-          className="cls-3"
-          transform="translate(207.98 131.89) rotate(-15.43)"
-        >
-          O
-        </text>
-        <text
-          className="cls-3"
-          transform="translate(224.67 127.24) rotate(-7.47)"
-        >
-          N
-        </text>
-        <text
-          className="cls-3"
-          transform="translate(241.83 124.86) rotate(0.93)"
-        >
-          T
-        </text>
-        <text
-          className="cls-3"
-          transform="translate(259.16 125.01) rotate(8.24)"
-        >
-          A
-        </text>
-        <text
-          className="cls-3"
-          transform="matrix(0.96, 0.28, -0.28, 0.96, 276.32, 127.44)"
-        >
-          C
-        </text>
-        <text
-          className="cls-3"
-          transform="translate(292.93 132.22) rotate(24.18)"
-        >
-          T
-        </text>
-        <a href="#resume">
+        <a href="#contact" class="link">
+          <text
+            className="cls-3"
+            transform="translate(192.12 138.81) rotate(-23.41)"
+          >
+            C
+          </text>
+          <text
+            className="cls-3"
+            transform="translate(207.98 131.89) rotate(-15.43)"
+          >
+            O
+          </text>
+          <text
+            className="cls-3"
+            transform="translate(224.67 127.24) rotate(-7.47)"
+          >
+            N
+          </text>
+          <text
+            className="cls-3"
+            transform="translate(241.83 124.86) rotate(0.93)"
+          >
+            T
+          </text>
+          <text
+            className="cls-3"
+            transform="translate(259.16 125.01) rotate(8.24)"
+          >
+            A
+          </text>
+          <text
+            className="cls-3"
+            transform="matrix(0.96, 0.28, -0.28, 0.96, 276.32, 127.44)"
+          >
+            C
+          </text>
+          <text
+            className="cls-3"
+            transform="translate(292.93 132.22) rotate(24.18)"
+          >
+            T
+          </text>
+        </a>
+        <a href="#resume" class="link">
           <text
             className="cls-3"
             transform="translate(192.03 389.39) rotate(19.16)"
@@ -103,129 +105,138 @@ const CircularNav = () => (
         </a>
       </g>
       <g id="Layer_3" data-name="Layer 3">
-        <text className="cls-3" transform="translate(208.99 54) rotate(-9.17)">
-          A
-        </text>
-        <text
-          className="cls-3"
-          transform="translate(226.33 51.18) rotate(-4.15)"
-        >
-          B
-        </text>
-        <text
-          className="cls-3"
-          transform="matrix(1, 0.02, -0.02, 1, 243.83, 49.87)"
-        >
-          O
-        </text>
-        <text
-          className="cls-3"
-          transform="matrix(0.99, 0.1, -0.1, 0.99, 261.42, 50.12)"
-        >
-          U
-        </text>
-        <text
-          className="cls-3"
-          transform="translate(278.87 51.86) rotate(10.8)"
-        >
-          T
-        </text>
-        <text
-          className="cls-3"
-          transform="matrix(0.62, -0.79, 0.79, 0.62, 422.12, 396.22)"
-        >
-          A
-        </text>
-        <text
-          className="cls-3"
-          transform="matrix(0.55, -0.84, 0.84, 0.55, 434.19, 380.72)"
-        >
-          R
-        </text>
-        <text
-          className="cls-3"
-          transform="translate(444.88 364.21) rotate(-61.87)"
-        >
-          T
-        </text>
-        <text
-          className="cls-3"
-          transform="matrix(0.39, -0.92, 0.92, 0.39, 454.08, 346.84)"
-        >
-          I
-        </text>
-        <text
-          className="cls-3"
-          transform="matrix(0.31, -0.95, 0.95, 0.31, 461.74, 328.71)"
-        >
-          C
-        </text>
-        <text
-          className="cls-3"
-          transform="translate(467.78 310.01) rotate(-76.92)"
-        >
-          L
-        </text>
-        <text
-          className="cls-3"
-          transform="translate(472.16 290.83) rotate(-81.93)"
-        >
-          E
-        </text>
-        <text
-          className="cls-3"
-          transform="translate(474.84 271.39) rotate(-86.89)"
-        >
-          S
-        </text>
-        <text
-          className="cls-3"
-          transform="matrix(0.04, 1, -1, 0.04, 24.16, 251.29)"
-        >
-          P
-        </text>
-        <text
-          className="cls-3"
-          transform="translate(25.11 270.91) rotate(82.47)"
-        >
-          R
-        </text>
-        <text
-          className="cls-3"
-          transform="translate(27.76 290.4) rotate(77.46)"
-        >
-          O
-        </text>
-        <text
-          className="cls-3"
-          transform="matrix(0.3, 0.95, -0.95, 0.3, 32.1, 309.57)"
-        >
-          J
-        </text>
-        <text
-          className="cls-3"
-          transform="matrix(0.38, 0.92, -0.92, 0.38, 38.11, 328.31)"
-        >
-          E
-        </text>
-        <text
-          className="cls-3"
-          transform="translate(45.72 346.42) rotate(62.41)"
-        >
-          C
-        </text>
-        <text
-          className="cls-3"
-          transform="translate(54.89 363.82) rotate(57.41)"
-        >
-          T
-        </text>
-        <text
-          className="cls-3"
-          transform="matrix(0.61, 0.79, -0.79, 0.61, 65.54, 380.33)"
-        >
-          S
-        </text>
+        <a href="#about" class="link">
+          <text
+            className="cls-3"
+            transform="translate(208.99 54) rotate(-9.17)"
+          >
+            A
+          </text>
+          <text
+            className="cls-3"
+            transform="translate(226.33 51.18) rotate(-4.15)"
+          >
+            B
+          </text>
+          <text
+            className="cls-3"
+            transform="matrix(1, 0.02, -0.02, 1, 243.83, 49.87)"
+          >
+            O
+          </text>
+          <text
+            className="cls-3"
+            transform="matrix(0.99, 0.1, -0.1, 0.99, 261.42, 50.12)"
+          >
+            U
+          </text>
+          <text
+            className="cls-3"
+            transform="translate(278.87 51.86) rotate(10.8)"
+          >
+            T
+          </text>
+        </a>
+        <a href="#articles" class="link">
+          <text
+            className="cls-3"
+            transform="matrix(0.62, -0.79, 0.79, 0.62, 422.12, 396.22)"
+          >
+            A
+          </text>
+          <text
+            className="cls-3"
+            transform="matrix(0.55, -0.84, 0.84, 0.55, 434.19, 380.72)"
+          >
+            R
+          </text>
+          <text
+            className="cls-3"
+            transform="translate(444.88 364.21) rotate(-61.87)"
+          >
+            T
+          </text>
+          <text
+            className="cls-3"
+            transform="matrix(0.39, -0.92, 0.92, 0.39, 454.08, 346.84)"
+          >
+            I
+          </text>
+          <text
+            className="cls-3"
+            transform="matrix(0.31, -0.95, 0.95, 0.31, 461.74, 328.71)"
+          >
+            C
+          </text>
+          <text
+            className="cls-3"
+            transform="translate(467.78 310.01) rotate(-76.92)"
+          >
+            L
+          </text>
+          <text
+            className="cls-3"
+            transform="translate(472.16 290.83) rotate(-81.93)"
+          >
+            E
+          </text>
+          <text
+            className="cls-3"
+            transform="translate(474.84 271.39) rotate(-86.89)"
+          >
+            S
+          </text>
+        </a>
+        <a href="#projects" class="link">
+          <text
+            className="cls-3"
+            transform="matrix(0.04, 1, -1, 0.04, 24.16, 251.29)"
+          >
+            P
+          </text>
+          <text
+            className="cls-3"
+            transform="translate(25.11 270.91) rotate(82.47)"
+          >
+            R
+          </text>
+          <text
+            className="cls-3"
+            transform="translate(27.76 290.4) rotate(77.46)"
+          >
+            O
+          </text>
+          <text
+            className="cls-3"
+            transform="matrix(0.3, 0.95, -0.95, 0.3, 32.1, 309.57)"
+          >
+            J
+          </text>
+          <text
+            className="cls-3"
+            transform="matrix(0.38, 0.92, -0.92, 0.38, 38.11, 328.31)"
+          >
+            E
+          </text>
+          <text
+            className="cls-3"
+            transform="translate(45.72 346.42) rotate(62.41)"
+          >
+            C
+          </text>
+          <text
+            className="cls-3"
+            transform="translate(54.89 363.82) rotate(57.41)"
+          >
+            T
+          </text>
+          <text
+            className="cls-3"
+            transform="matrix(0.61, 0.79, -0.79, 0.61, 65.54, 380.33)"
+          >
+            S
+          </text>
+        </a>
       </g>
     </svg>
   </div>

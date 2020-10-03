@@ -1,13 +1,13 @@
 import React from "react"
-import CircularNav from "../components/CircularNav"
+import Navigation from "../components/Navigation"
 import Resume from "../components/Resume"
 import About from "../components/About"
 
 const IndexPage = () => (
   <div>
-    <CircularNav />
+    <Navigation />
     <About />
-    <Resume id="resume" />
+    <Resume />
   </div>
 )
 export default IndexPage
