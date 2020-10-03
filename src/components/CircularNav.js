@@ -1,10 +1,7 @@
 import React, { useEffect, useRef } from "react"
 import { Link } from "gatsby"
-// import CircleType from "circletype"
 import "../styles/style_nav.scss"
 // import nav from "../styles/images/animated_nav.svg"
-
-//left off: https://css-tricks.com/set-text-on-a-circle/
 
 const CircularNav = () => (
   <div className="container">
@@ -66,7 +63,7 @@ const CircularNav = () => (
         >
           T
         </text>
-        <Link href="/resume">
+        <a href="#resume">
           <text
             className="cls-3"
             transform="translate(192.03 389.39) rotate(19.16)"
@@ -103,7 +100,7 @@ const CircularNav = () => (
           >
             E
           </text>
-        </Link>
+        </a>
       </g>
       <g id="Layer_3" data-name="Layer 3">
         <text className="cls-3" transform="translate(208.99 54) rotate(-9.17)">

@@ -3,7 +3,7 @@ import "../styles/style_resume.scss"
 // import { Link } from "gatsby"
 
 const Resume = () => (
-  <div>
+  <div id="resume">
     <header>
       <div className="flex space-btwn max-width">
         <div>
