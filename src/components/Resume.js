@@ -33,7 +33,7 @@ const Resume = () => (
         </div>
       </div>
     </header>
-    <div className="container">
+    <div className="container-resume">
       <div className="flex space-btwn ctr-vert max-width">
         <h3 className="caps f-med">Experience</h3>
         <h3 className="caps f-med m-hor-lg">Skills</h3>
