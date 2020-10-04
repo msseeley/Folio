@@ -9,21 +9,30 @@
   padding: 5em 0 5em 0;
 }
 
-#overlay-descr {
-  position: absolute;
-  color: white;
-  top: 47%;
-  left: 37%;
-  width: 11rem;
-  padding: 0 1rem;
-}
-
-#about-descr {
-  // display: none;
+.cls-4 {
+  display: none;
 }
 
 .link:hover {
   fill: red;
+}
+
+.link#articles-link:hover ~ .cls-4#articles-desc {
+  display: block;
+}
+
+.link#contact-link:hover ~ .cls-4#contact-desc {
+  display: block;
+}
+
+.link#resume-link:hover ~ .cls-4#resume-desc {
+  display: block;
+}
+.link#projects-link:hover ~ .cls-4#projects-desc {
+  display: block;
+}
+.link#about-link:hover ~ .cls-4#about-desc {
+  display: block;
 }
 
 /* ANIMATION EFFECTS FOR CIRCULAR NAVIGATION */

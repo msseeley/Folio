@@ -7,7 +7,7 @@ const CircularNav = () => (
   <div className="container">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
       <defs>
-        <style>{`.cls-1{fill:#fff;}.cls-2{fill:#1a1a1a;}.cls-3{font-size:30px;font-family:RobotoMonoForPowerline-Regular, Roboto Mono for Powerline;}`}</style>
+        <style>{`.cls-1,.cls-4{fill:#fff;}.cls-2{fill:#1a1a1a;}.cls-3{font-size:30px;font-family:RobotoMonoForPowerline-Regular, Roboto Mono for Powerline;}.cls-4{font-size:12px;font-family:RobotoMonoForPowerline-BoldItalic, Roboto Mono for Powerline;font-weight:700;font-style:italic;}`}</style>
       </defs>
       <g id="Layer_1" data-name="Layer 1">
         <path
@@ -30,7 +30,7 @@ const CircularNav = () => (
           </text>
           <text
             className="cls-3"
-            transform="translate(207.98 131.89) rotate(-15.43)"
+            transform="translate(208.01 131.88) rotate(-15.42)"
           >
             O
           </text>
@@ -65,6 +65,16 @@ const CircularNav = () => (
             T
           </text>
         </a>
+        <text
+          className="cls-4 descr"
+          transform="translate(204.22 253.51)"
+          id="contact-desc"
+        >
+          Get in touch!
+        </text>
+        <path d="M250,151a99,99,0,1,1-99,99,99.11,99.11,0,0,1,99-99m0-1A100,100,0,1,0,350,250,100,100,0,0,0,250,150Z" />
+      </g>
+      <g id="Layer_4" data-name="Layer 4">
         <a href="#resume" className="link" id="resume-link">
           <text
             className="cls-3"
@@ -103,6 +113,14 @@ const CircularNav = () => (
             E
           </text>
         </a>
+        <path d="M250,151a99,99,0,1,1-99,99,99.11,99.11,0,0,1,99-99m0-1A100,100,0,1,0,350,250,100,100,0,0,0,250,150Z" />
+        <text
+          className="cls-4 descr"
+          transform="translate(183.09 253.51)"
+          id="resume-desc"
+        >
+          My long-form resumé
+        </text>
       </g>
       <g id="Layer_3" data-name="Layer 3">
         <a href="#about" className="link" id="about-link">
@@ -137,56 +155,19 @@ const CircularNav = () => (
             T
           </text>
         </a>
-        <a href="#articles" className="link" id="articles-link">
-          <text
-            className="cls-3"
-            transform="matrix(0.62, -0.79, 0.79, 0.62, 422.12, 396.22)"
-          >
-            A
-          </text>
-          <text
-            className="cls-3"
-            transform="matrix(0.55, -0.84, 0.84, 0.55, 434.19, 380.72)"
-          >
-            R
-          </text>
-          <text
-            className="cls-3"
-            transform="translate(444.88 364.21) rotate(-61.87)"
-          >
-            T
-          </text>
-          <text
-            className="cls-3"
-            transform="matrix(0.39, -0.92, 0.92, 0.39, 454.08, 346.84)"
-          >
-            I
-          </text>
-          <text
-            className="cls-3"
-            transform="matrix(0.31, -0.95, 0.95, 0.31, 461.74, 328.71)"
-          >
-            C
-          </text>
-          <text
-            className="cls-3"
-            transform="translate(467.78 310.01) rotate(-76.92)"
-          >
-            L
-          </text>
-          <text
-            className="cls-3"
-            transform="translate(472.16 290.83) rotate(-81.93)"
-          >
-            E
-          </text>
-          <text
-            className="cls-3"
-            transform="translate(474.84 271.39) rotate(-86.89)"
-          >
-            S
-          </text>
-        </a>
+        <path d="M250,151a99,99,0,1,1-99,99,99.11,99.11,0,0,1,99-99m0-1A100,100,0,1,0,350,250,100,100,0,0,0,250,150Z" />
+        <text
+          className="cls-4 descr"
+          transform="translate(228.87 245.51)"
+          id="about-desc"
+        >
+          Hello!
+          <tspan x="-45.78" y="16">
+            My name is Molly...
+          </tspan>
+        </text>
+      </g>
+      <g id="Layer_5" data-name="Layer 5">
         <a href="#projects" className="link" id="projects-link">
           <text
             className="cls-3"
@@ -237,6 +218,77 @@ const CircularNav = () => (
             S
           </text>
         </a>
+        <path d="M250,151a99,99,0,1,1-99,99,99.11,99.11,0,0,1,99-99m0-1A100,100,0,1,0,350,250,100,100,0,0,0,250,150Z" />
+        <text
+          className="cls-4 descr"
+          transform="translate(197.18 253.51)"
+          id="projects-desc"
+        >
+          Curated work...
+        </text>
+      </g>
+      <g id="Layer_6" data-name="Layer 6">
+        <a href="#articles" className="link" id="articles-link">
+          <text
+            className="cls-3"
+            transform="matrix(0.62, -0.79, 0.79, 0.62, 422.13, 396.22)"
+          >
+            A
+          </text>
+          <text
+            className="cls-3"
+            transform="matrix(0.55, -0.84, 0.84, 0.55, 434.19, 380.72)"
+          >
+            R
+          </text>
+          <text
+            className="cls-3"
+            transform="translate(444.88 364.21) rotate(-61.87)"
+          >
+            T
+          </text>
+          <text
+            className="cls-3"
+            transform="matrix(0.39, -0.92, 0.92, 0.39, 454.08, 346.84)"
+          >
+            I
+          </text>
+          <text
+            className="cls-3"
+            transform="matrix(0.31, -0.95, 0.95, 0.31, 461.74, 328.71)"
+          >
+            C
+          </text>
+          <text
+            className="cls-3"
+            transform="translate(467.78 310.01) rotate(-76.92)"
+          >
+            L
+          </text>
+          <text
+            className="cls-3"
+            transform="translate(472.16 290.83) rotate(-81.93)"
+          >
+            E
+          </text>
+          <text
+            className="cls-3"
+            transform="translate(474.84 271.39) rotate(-86.89)"
+          >
+            S
+          </text>
+        </a>
+        <path d="M250,151a99,99,0,1,1-99,99,99.11,99.11,0,0,1,99-99m0-1A100,100,0,1,0,350,250,100,100,0,0,0,250,150Z" />
+        <text
+          className="cls-4 descr"
+          transform="translate(186.61 237.51)"
+          id="articles-desc"
+        >
+          Tales,tutorials &amp;{" "}
+          <tspan x="14.09" y="16">
+            impressions...
+          </tspan>
+        </text>
       </g>
     </svg>
   </div>

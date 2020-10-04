@@ -1,1 +1,99 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500"><defs><style>.cls-1,.cls-4{fill:#fff;}.cls-2{fill:#1a1a1a;}.cls-3{font-size:30px;font-family:RobotoMonoForPowerline-Regular, Roboto Mono for Powerline;}.cls-4{font-size:12px;font-family:RobotoMonoForPowerline-BoldItalic, Roboto Mono for Powerline;font-weight:700;font-style:italic;}</style></defs><g id="Layer_1" data-name="Layer 1"><path class="cls-1" d="M250,499.5A249.5,249.5,0,0,1,73.58,73.58,249.5,249.5,0,1,1,426.42,426.42,247.84,247.84,0,0,1,250,499.5Z"/><path d="M250,1A248.93,248.93,0,0,1,426.07,426.07a249,249,0,1,1-273-405.5A247.32,247.32,0,0,1,250,1m0-1C111.93,0,0,111.93,0,250S111.93,500,250,500,500,388.07,500,250,388.07,0,250,0Z"/><circle class="cls-1" cx="250" cy="250" r="174.5"/><path d="M250,76a174,174,0,1,1-123,51A172.89,172.89,0,0,1,250,76m0-1A175,175,0,1,0,425,250,175,175,0,0,0,250,75Z"/><circle class="cls-2" cx="250" cy="250" r="99.5"/><path d="M250,151a99,99,0,1,1-99,99,99.11,99.11,0,0,1,99-99m0-1A100,100,0,1,0,350,250,100,100,0,0,0,250,150Z"/></g><g id="Layer_3" data-name="Layer 3"><text class="cls-3" transform="translate(208.99 54) rotate(-9.17)">A</text><text class="cls-3" transform="translate(226.33 51.18) rotate(-4.15)">B</text><text class="cls-3" transform="matrix(1, 0.02, -0.02, 1, 243.83, 49.87)">O</text><text class="cls-3" transform="matrix(0.99, 0.1, -0.1, 0.99, 261.42, 50.12)">U</text><text class="cls-3" transform="translate(278.87 51.86) rotate(10.8)">T</text><circle class="cls-2" cx="250" cy="250" r="99.5"/><path d="M250,151a99,99,0,1,1-99,99,99.11,99.11,0,0,1,99-99m0-1A100,100,0,1,0,350,250,100,100,0,0,0,250,150Z"/><text class="cls-4" transform="translate(228.87 245.51)">Hello!<tspan x="-45.78" y="16">My name is Molly...</tspan></text></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#1A1A1A;}
+	.st2{fill:none;}
+	.st3{font-family:'RobotoMonoForPowerline-BoldItalic';}
+	.st4{font-size:12px;}
+</style>
+<g id="Layer_1">
+	<g>
+		<path class="st0" d="M250,499.5c-66.6,0-129.3-26-176.4-73.1C26.5,379.3,0.5,316.6,0.5,250c0-66.6,26-129.3,73.1-176.4
+			C120.7,26.5,183.4,0.5,250,0.5c66.6,0,129.3,26,176.4,73.1c47.1,47.1,73.1,109.8,73.1,176.4c0,66.6-26,129.3-73.1,176.4
+			C379.3,473.5,316.6,499.5,250,499.5z"/>
+		<path d="M250,1c33.6,0,66.2,6.6,96.9,19.6c29.7,12.5,56.3,30.5,79.1,53.4c22.9,22.9,40.8,49.5,53.4,79.1
+			c13,30.7,19.6,63.3,19.6,96.9s-6.6,66.2-19.6,96.9c-12.5,29.7-30.5,56.3-53.4,79.1c-22.9,22.9-49.5,40.8-79.1,53.4
+			c-30.7,13-63.3,19.6-96.9,19.6s-66.2-6.6-96.9-19.6c-29.7-12.5-56.3-30.5-79.1-53.4c-22.9-22.9-40.8-49.5-53.4-79.1
+			C7.6,316.2,1,283.6,1,250s6.6-66.2,19.6-96.9c12.5-29.7,30.5-56.3,53.4-79.1s49.5-40.8,79.1-53.4C183.8,7.6,216.4,1,250,1 M250,0
+			C111.9,0,0,111.9,0,250s111.9,250,250,250s250-111.9,250-250S388.1,0,250,0L250,0z"/>
+	</g>
+	<g>
+		<circle class="st0" cx="250" cy="250" r="174.5"/>
+		<path d="M250,76c46.5,0,90.2,18.1,123,51c32.9,32.9,51,76.6,51,123s-18.1,90.2-51,123s-76.6,51-123,51s-90.2-18.1-123-51
+			c-32.9-32.9-51-76.6-51-123s18.1-90.2,51-123C159.8,94.1,203.5,76,250,76 M250,75c-96.6,0-175,78.4-175,175s78.4,175,175,175
+			s175-78.4,175-175S346.6,75,250,75L250,75z"/>
+	</g>
+	<g>
+		<circle class="st1" cx="250" cy="250" r="99.5"/>
+		<path d="M250,151c54.6,0,99,44.4,99,99s-44.4,99-99,99s-99-44.4-99-99S195.4,151,250,151 M250,150c-55.2,0-100,44.8-100,100
+			s44.8,100,100,100s100-44.8,100-100S305.2,150,250,150L250,150z"/>
+	</g>
+</g>
+<g id="Layer_2">
+	<path id="SVGID_x5F_1_x5F_" class="st2" d="M375,250c0,69-56,125-125,125s-125-56-125-125s56-125,125-125S375,181,375,250z"/>
+	<text>	<textPath  xlink:href="#SVGID_x5F_1_x5F_" startOffset="90.0067%">
+<tspan  style="font-family:'RobotoMonoForPowerline-Regular'; font-size:30px;">CONTACT</tspan>	</textPath>
+</text>
+	<text transform="matrix(1 0 0 1 204.2206 253.5067)" class="st0 st3 st4">Get in touch!</text>
+	<g>
+		<circle class="st1" cx="250" cy="250" r="99.5"/>
+		<path d="M250,151c54.6,0,99,44.4,99,99s-44.4,99-99,99s-99-44.4-99-99S195.4,151,250,151 M250,150c-55.2,0-100,44.8-100,100
+			s44.8,100,100,100s100-44.8,100-100S305.2,150,250,150L250,150z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 204.2205 253.5068)" class="st0 st3 st4">Get in touch!</text>
+</g>
+<g id="Layer_4">
+	<path id="SVGID_x5F_2_x5F_" class="st2" d="M375,250c0,69-56,125-125,125s-125-56-125-125s56-125,125-125S375,181,375,250z"/>
+	<text>	<textPath  xlink:href="#SVGID_x5F_2_x5F_" startOffset="42.0613%">
+<tspan  style="font-family:'RobotoMonoForPowerline-Regular'; font-size:30px;">RESUME</tspan>	</textPath>
+</text>
+	<g>
+		<circle class="st1" cx="250" cy="250" r="99.5"/>
+		<path d="M250,151c54.6,0,99,44.4,99,99s-44.4,99-99,99s-99-44.4-99-99S195.4,151,250,151 M250,150c-55.2,0-100,44.8-100,100
+			s44.8,100,100,100s100-44.8,100-100S305.2,150,250,150L250,150z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 183.0916 253.5068)" class="st0 st3 st4">My long-form resumé</text>
+</g>
+<g id="Layer_3">
+	<path id="SVGID_x5F_3_x5F_" class="st2" d="M450,250c0,110.5-89.5,200-200,200S50,360.5,50,250S139.5,50,250,50S450,139.5,450,250z
+		"/>
+	<text>	<textPath  xlink:href="#SVGID_x5F_3_x5F_" startOffset="-37.5467%">
+<tspan  style="font-family:'RobotoMonoForPowerline-Regular'; font-size:30px;">ABOUT</tspan>	</textPath>
+</text>
+	<g>
+		<circle class="st1" cx="250" cy="250" r="99.5"/>
+		<path d="M250,151c54.6,0,99,44.4,99,99s-44.4,99-99,99s-99-44.4-99-99S195.4,151,250,151 M250,150c-55.2,0-100,44.8-100,100
+			s44.8,100,100,100s100-44.8,100-100S305.2,150,250,150L250,150z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 228.8713 245.5068)"><tspan x="0" y="0" class="st0 st3 st4">Hello!</tspan><tspan x="-45.8" y="16" class="st0 st3 st4">My name is Molly...</tspan></text>
+</g>
+<g id="Layer_5">
+	<path id="SVGID_x5F_4_x5F_" class="st2" d="M450,250c0,110.5-89.5,200-200,200S50,360.5,50,250S139.5,50,250,50S450,139.5,450,250z
+		"/>
+	<text>	<textPath  xlink:href="#SVGID_x5F_4_x5F_" startOffset="68.803%">
+<tspan  style="font-family:'RobotoMonoForPowerline-Regular'; font-size:30px;">PROJECTS</tspan>	</textPath>
+</text>
+	<g>
+		<circle class="st1" cx="250" cy="250" r="99.5"/>
+		<path d="M250,151c54.6,0,99,44.4,99,99s-44.4,99-99,99s-99-44.4-99-99S195.4,151,250,151 M250,150c-55.2,0-100,44.8-100,100
+			s44.8,100,100,100s100-44.8,100-100S305.2,150,250,150L250,150z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 197.1777 253.5068)" class="st0 st3 st4">Curated work...</text>
+</g>
+<g id="Layer_6">
+	<path id="SVGID_x5F_5_x5F_" class="st2" d="M450,250c0,110.5-89.5,200-200,200S50,360.5,50,250S139.5,50,250,50S450,139.5,450,250z
+		"/>
+	<text>	<textPath  xlink:href="#SVGID_x5F_5_x5F_" startOffset="-1451.3264%">
+<tspan  style="font-family:'RobotoMonoForPowerline-Regular'; font-size:30px;">ARTICLES</tspan>	</textPath>
+</text>
+	<g>
+		<circle class="st1" cx="250" cy="250" r="99.5"/>
+		<path d="M250,151c54.6,0,99,44.4,99,99s-44.4,99-99,99s-99-44.4-99-99S195.4,151,250,151 M250,150c-55.2,0-100,44.8-100,100
+			s44.8,100,100,100s100-44.8,100-100S305.2,150,250,150L250,150z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 186.6135 237.5068)"><tspan x="0" y="0" class="st0 st3 st4">Tales,tutorials &amp; </tspan><tspan x="14.1" y="16" class="st0 st3 st4">impressions...</tspan></text>
+</g>
+</svg>
