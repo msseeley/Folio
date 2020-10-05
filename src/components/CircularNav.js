@@ -72,7 +72,6 @@ const CircularNav = () => (
         >
           Get in touch!
         </text>
-        <path d="M250,151a99,99,0,1,1-99,99,99.11,99.11,0,0,1,99-99m0-1A100,100,0,1,0,350,250,100,100,0,0,0,250,150Z" />
       </g>
       <g id="Layer_4" data-name="Layer 4">
         <a href="#resume" className="link" id="resume-link">
@@ -113,7 +112,6 @@ const CircularNav = () => (
             E
           </text>
         </a>
-        <path d="M250,151a99,99,0,1,1-99,99,99.11,99.11,0,0,1,99-99m0-1A100,100,0,1,0,350,250,100,100,0,0,0,250,150Z" />
         <text
           className="cls-4 descr"
           transform="translate(183.09 253.51)"
