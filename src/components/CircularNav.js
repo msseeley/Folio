@@ -4,7 +4,7 @@ import "../styles/style_nav.scss"
 // import nav from "../styles/images/animated_nav.svg"
 
 const CircularNav = () => (
-  <div className="container">
+  <div className="nav-container">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
       <defs>
         <style>{`.cls-1,.cls-4{fill:#fff;}.cls-2{fill:#1a1a1a;}.cls-3{font-size:30px;font-family:RobotoMonoForPowerline-Regular, Roboto Mono for Powerline;}.cls-4{font-size:12px;font-family:RobotoMonoForPowerline-BoldItalic, Roboto Mono for Powerline;font-weight:700;font-style:italic;}`}</style>
